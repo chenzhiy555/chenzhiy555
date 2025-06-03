@@ -1,16 +1,23 @@
-## Hi there 👋
+# 我是 [陈智妍] 👋
 
-<!--
-**chenzhiy555/chenzhiy555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 会计专业大一学生 | 📍 浙江 | 🏸 羽毛球爱好者
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 目前正在学习：基础会计、财务管理、Python入门
+- 📊 感兴趣领域：财务数据分析、数字化会计
+- 🏸 课余爱好：打羽毛球/每周至少打两小时
+- 🎯 短期目标：考取初级会计职称、学习Tableau可视化
+- ✨ 特质：幽默风趣 | 热爱学习 | 团队协作
+
+## 正在进行的项目
+
+📌 [羽毛球社团]  
+📌 [会计学习笔记] - 整理的专业课Markdown笔记仓库
+
+## 趣味统计
+
+🏸 今年已打羽毛球：127小时  
+🎵 最近单曲循环：《[angel]》
+
+> "好的会计就像羽毛球双打，既要个人技术扎实，更要懂得团队配合"
